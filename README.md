@@ -1,1 +1,1 @@
-# Nobel_Prize
+# Nobel_Prize  In this DataCamp project, patterns and trends over 100 years worth of Nobel Prize winners are examined with Pandas data explorations and Seaborn data visualizations.  The dataset used in this project is from The Nobel Foundation on Kaggle.
